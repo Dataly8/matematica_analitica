@@ -46,7 +46,7 @@ ________________________________________________________________________________
 # matematica_analitica
 Caso práctico de álgebra lineal aplicada: cálculo de gasto y recomendación de compra mediante producto de matrices en Python.
 
-# Sprint 1 — Aplicaciones del producto de matrices
+# Entrega: Aplicaciones del producto de matrices
 
 Ejercicio del módulo *Matemáticas y estadística en el tratamiento de datos*.
 Aplica el producto de matrices a un caso práctico de recomendación de compra.
